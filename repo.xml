@@ -1,0 +1,9 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Blog</name>
+			<url>https://blog.hack.kr/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
